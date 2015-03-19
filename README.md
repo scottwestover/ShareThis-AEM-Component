@@ -7,7 +7,7 @@ Blog: http://scottwestover.blogspot.com/
 
 You can find a tutorial on how to build the component here:
 
-
+http://scottwestover.blogspot.com/2015/03/aem-cqlisteners-node-tutorial.html
 
 This component was built using AEM 6.
 
